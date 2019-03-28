@@ -1,8 +1,8 @@
 {
   "resourceOne": [
-    { "id": 1, "text": "\\"This is text one\\"" },
-    { "id": 2, "text": "\\"This is text two\\"" },
-    { "id": 3, "text": "\\"This is text three\\"" }
+    { "id": 1, "text": "This is text one" },
+    { "id": 2, "text": "This is text two" },
+    { "id": 3, "text": "This is text three" }
   ],
   "resourceTwo": [
     { "id": 1, 
