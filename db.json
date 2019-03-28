@@ -1,0 +1,24 @@
+{
+  "resourceOne": [
+    { "id": 1, "text": "\\"This is text one\\"" },
+    { "id": 2, "text": "\\"This is text two\\"" },
+    { "id": 3, "text": "\\"This is text three\\"" }
+  ],
+  "resourceTwo": [
+    { "id": 1, 
+    "someNestedData": {
+      "stringProp": "this is a string with newlines \\n \^newline above",
+      "numProp": 500
+    }
+    },
+    { "id": 2, 
+    "someNestedData": {
+      "stringProp": "this is a string with newlines \\n \^newline above",
+      "numProp": 700
+      }
+    }
+  ],
+  "resourceThree": {
+    "longText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+  }
+}
