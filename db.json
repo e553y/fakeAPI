@@ -7,13 +7,13 @@
   "resourceTwo": [
     { "id": 1, 
     "someNestedData": {
-      "stringProp": "this is a string with newlines \\n \^newline above",
+      "stringProp": "this is a string with newlines \\n \\^newline above",
       "numProp": 500
     }
     },
     { "id": 2, 
     "someNestedData": {
-      "stringProp": "this is a string with newlines \\n \^newline above",
+      "stringProp": "this is a string with newlines \\n \\^newline above",
       "numProp": 700
       }
     }
